@@ -9,12 +9,12 @@ Repositório principal, projeto completo: https://github.com/WillGarciaM/mono-re
 Repositório inicial front-end: https://github.com/leoronchini/myfinance-react
 
 Equipe
-Leonardo Ronchini @leoronchini
-William Garcia @willgarciam
-William Neto @neto6
+- Leonardo Ronchini @leoronchini
+- William Garcia @willgarciam
+- William Neto @neto6
 
 
-## Após clone do repositório, criar .env com configurações
+### Após clone do repositório, criar .env com configurações
 
 ```
 DBDATABASE=database
@@ -25,13 +25,13 @@ DBUSER=user
 PORT=app_port
 ```
 
-## Realizar instalação de dependências
+### Realizar instalação de dependências
 
 ```bash
 $ npm install
 ```
 
-## Em seguida rodar a aplicação
+### Em seguida rodar a aplicação
 
 ```bash
 $ npm run start
