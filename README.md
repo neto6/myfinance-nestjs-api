@@ -5,6 +5,7 @@ Back-end para projeto de disciplina Pós-graduação PUC Minas.
 Utilizando [Nest](https://github.com/nestjs/nest).
 
 Repositório principal, projeto completo: https://github.com/WillGarciaM/mono-repo-myfinance
+
 Repositório inicial front-end: https://github.com/leoronchini/myfinance-react
 
 Equipe
