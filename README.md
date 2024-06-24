@@ -2,6 +2,8 @@
 
 Back-end para projeto de disciplina Pós-graduação PUC Minas.
 
+Live Demo: https://myfinance-nestjs-api-production.up.railway.app/api
+
 Utilizando [Nest](https://github.com/nestjs/nest).
 
 Repositório principal, projeto completo: https://github.com/WillGarciaM/mono-repo-myfinance
